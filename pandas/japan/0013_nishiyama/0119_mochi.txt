@@ -1,0 +1,326 @@
+[panda]
+_id: 119
+birthday: 2015/6/24
+birthplace: 13
+children: 955, 956
+commitdate: 2018/6/25
+en.name: Mochi
+en.nicknames: none
+en.othernames: Moochie, Mocchii
+gender: m
+jp.name: モッチー
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 52
+photo.1: ig://BaQtumtl045/m
+photo.1.author: hanamaru_redpanda
+photo.1.commitdate: 2020/3/12
+photo.1.link: https://www.instagram.com/hanamaru_redpanda/
+photo.1.tags: mofumofu, portrait, smile
+photo.2: ig://BgoCSpdg7oH/m
+photo.2.author: mikaamihara
+photo.2.commitdate: 2018/7/20
+photo.2.link: https://www.instagram.com/mikaamihara/
+photo.2.tags: laying down, yawn
+photo.3: ig://BiTx58MFJLj/m
+photo.3.author: colette.jp
+photo.3.commitdate: 2018/7/20
+photo.3.link: https://www.instagram.com/colette.jp/
+photo.3.tags: portrait, wet
+photo.4: ig://BnkmRfuhK-7/m
+photo.4.author: ayusuke56
+photo.4.commitdate: 2018/9/13
+photo.4.link: https://www.instagram.com/ayusuke56/
+photo.4.tags: apple time, dish, home, portrait
+photo.5: ig://BnqwZfDliJv/m
+photo.5.author: minato.yokohama2130
+photo.5.commitdate: 2018/9/14
+photo.5.link: https://www.instagram.com/minato.yokohama2130/
+photo.5.tags: portrait, smile
+photo.6: ig://BoENJfBFq1I/m
+photo.6.author: i.satosato
+photo.6.commitdate: 2018/9/24
+photo.6.link: https://www.instagram.com/i.satosato/
+photo.6.tags: portrait, smile, tongue
+photo.7: ig://BoOfNRWFpXA/m
+photo.7.author: minato.yokohama2130
+photo.7.commitdate: 2018/9/30
+photo.7.link: https://www.instagram.com/minato.yokohama2130/
+photo.7.tags: portrait
+photo.8: ig://BolUzBYFAM6/m
+photo.8.author: redpanda77f
+photo.8.commitdate: 2018/10/6
+photo.8.link: https://www.instagram.com/redpanda77f/
+photo.9: ig://Bo4FqobFg8R/m
+photo.9.author: minato.yokohama2130
+photo.9.commitdate: 2018/10/13
+photo.9.link: https://www.instagram.com/minato.yokohama2130/
+photo.9.tags: bamboo, portrait, smile
+photo.10: ig://BpMY-xFFbvL/m
+photo.10.author: jas_forever_love
+photo.10.commitdate: 2018/10/21
+photo.10.link: https://www.instagram.com/jas_forever_love/
+photo.10.tags: portrait
+photo.11: ig://BpNccdWFboE/m
+photo.11.author: minato.yokohama2130
+photo.11.commitdate: 2018/10/21
+photo.11.link: https://www.instagram.com/minato.yokohama2130/
+photo.11.tags: portrait
+photo.12: ig://BpOxbJhFAEd/m
+photo.12.author: gloryeui
+photo.12.commitdate: 2018/10/23
+photo.12.link: https://www.instagram.com/gloryeui/
+photo.12.tags: apple time, dish, home, portrait
+photo.13: ig://Bpb9KW6ld4g/m
+photo.13.author: mikaamihara
+photo.13.commitdate: 2018/10/27
+photo.13.link: https://www.instagram.com/mikaamihara/
+photo.13.tags: laying down, portrait, tongue
+photo.14: ig://Bpyt29rlrbP/m
+photo.14.author: minato.yokohama2130
+photo.14.commitdate: 2018/11/5
+photo.14.link: https://www.instagram.com/minato.yokohama2130/
+photo.14.tags: portrait, tongue
+photo.15: ig://Bp6nruMlSG6/m
+photo.15.author: minato.yokohama2130
+photo.15.commitdate: 2018/11/11
+photo.15.link: https://www.instagram.com/minato.yokohama2130/
+photo.16: ig://BqwgaglFWT0/m
+photo.16.author: minato.yokohama2130
+photo.16.commitdate: 2018/11/29
+photo.16.link: https://www.instagram.com/minato.yokohama2130/
+photo.16.tags: portrait
+photo.17: ig://Bqyi7R1nzWZ/m
+photo.17.author: yakko____
+photo.17.commitdate: 2018/12/6
+photo.17.link: https://www.instagram.com/yakko____/
+photo.17.tags: portrait
+photo.18: ig://Bq7BLIkFAQP/m
+photo.18.author: minato.yokohama2130
+photo.18.commitdate: 2018/12/4
+photo.18.link: https://www.instagram.com/minato.yokohama2130/
+photo.18.tags: portrait
+photo.19: ig://BrIYqtTlpJY/m
+photo.19.author: redpanda77f
+photo.19.commitdate: 2018/12/9
+photo.19.link: https://www.instagram.com/redpanda77f/
+photo.19.tags: apple time
+photo.20: ig://BriPSp5HQs5/m
+photo.20.author: minato.yokohama2130
+photo.20.commitdate: 2018/12/19
+photo.20.link: https://www.instagram.com/minato.yokohama2130/
+photo.20.tags: laying down, portrait
+photo.21: ig://Br9zBunFVIf/m
+photo.21.author: minato.yokohama2130
+photo.21.commitdate: 2018/12/30
+photo.21.link: https://www.instagram.com/minato.yokohama2130/
+photo.21.tags: portrait, wet
+photo.22: ig://BsXnBNoglbZ/m
+photo.22.author: resapanlove
+photo.22.commitdate: 2019/1/9
+photo.22.link: https://www.instagram.com/resapanlove/
+photo.22.tags: bamboo, portrait, tongue
+photo.23: ig://BskixXfnD9d/m
+photo.23.author: minato.yokohama2130
+photo.23.commitdate: 2019/1/18
+photo.23.link: https://www.instagram.com/minato.yokohama2130/
+photo.23.tags: mofumofu, portrait
+photo.24: ig://BtVVOP_FEhQ/m
+photo.24.author: joy93.87
+photo.24.commitdate: 2019/2/17
+photo.24.link: https://www.instagram.com/joy93.87/
+photo.24.tags: bamboo, portrait
+photo.25: ig://BudZDTVleT7/m
+photo.25.author: gloryeui
+photo.25.commitdate: 2019/3/9
+photo.25.link: ig://BudZDTVleT7/m
+photo.25.tags: laying down, mofumofu, portrait, smile, tongue
+photo.26: ig://BwJguRXl5S2/m
+photo.26.author: minato.yokohama2130
+photo.26.commitdate: 2019/4/15
+photo.26.link: https://www.instagram.com/minato.yokohama2130/
+photo.26.tags: grumpy, portrait, shedding
+photo.27: ig://BxIFVzXlPpZ/m
+photo.27.author: bubbles_octi
+photo.27.commitdate: 2019/5/10
+photo.27.link: https://www.instagram.com/bubbles_octi/
+photo.27.tags: paws
+photo.28: ig://BxRJnR5lJZA/m
+photo.28.author: ruru_maki
+photo.28.commitdate: 2019/5/10
+photo.28.link: https://www.instagram.com/ruru_maki/
+photo.28.tags: shedding
+photo.29: ig://BzF7RClh7uh/m
+photo.29.author: resapanlove
+photo.29.commitdate: 2019/6/28
+photo.29.link: https://www.instagram.com/resapanlove/
+photo.29.tags: bridge, laying down, paws, portrait, smile
+photo.30: ig://B0vzTnhhHMe/m
+photo.30.author: minato.yokohama2130
+photo.30.commitdate: 2019/8/11
+photo.30.link: https://www.instagram.com/minato.yokohama2130/
+photo.30.tags: home, mofumofu, portrait, wet
+photo.31: ig://B31OeAPhWsc/m
+photo.31.author: minato.yokohama2130
+photo.31.commitdate: 2019/10/22
+photo.31.link: https://www.instagram.com/minato.yokohama2130/
+photo.31.tags: grumpy, mofumofu, portrait
+photo.32: ig://B44lLAQhvbe/m
+photo.32.author: minato.yokohama2130
+photo.32.commitdate: 2019/11/29
+photo.32.link: https://www.instagram.com/minato.yokohama2130/
+photo.32.tags: paws, portrait
+photo.33: ig://B5zd2JjB857/m
+photo.33.author: minato.yokohama2130
+photo.33.commitdate: 2019/12/23
+photo.33.link: https://www.instagram.com/minato.yokohama2130/
+photo.33.tags: mofumofu, portrait
+photo.34: ig://B7DsbMEhRWz/m
+photo.34.author: minato.yokohama2130
+photo.34.commitdate: 2020/1/17
+photo.34.link: https://www.instagram.com/minato.yokohama2130/
+photo.34.tags: blink, laying down, mofumofu, portrait
+photo.35: ig://B7PLI32horf/m
+photo.35.author: tomo3700
+photo.35.commitdate: 2020/1/14
+photo.35.link: https://www.instagram.com/tomo3700/
+photo.35.tags: laying down, paws, portrait, upside-down
+photo.36: ig://B7YQ9vdBDA9/m
+photo.36.author: sakikukeco
+photo.36.commitdate: 2020/1/17
+photo.36.link: https://www.instagram.com/sakikukeco/
+photo.36.tags: tail, wet
+photo.37: ig://B7bEqANB89w/m
+photo.37.author: kai.kuniko
+photo.37.commitdate: 2020/1/19
+photo.37.link: https://www.instagram.com/kai.kuniko/
+photo.37.tags: itchy, portrait, tail
+photo.38: ig://B7iaDRBhA0e/m
+photo.38.author: minato.yokohama2130
+photo.38.commitdate: 2020/1/25
+photo.38.link: https://www.instagram.com/minato.yokohama2130/
+photo.38.tags: paws, portrait
+photo.39: ig://B7sy_Pphrb2/m
+photo.39.author: jas_forever_love
+photo.39.commitdate: 2020/1/26
+photo.39.link: https://www.instagram.com/jas_forever_love/
+photo.39.tags: apple time, mofumofu, paws, portrait, tail, tongue
+photo.40: ig://B74RU9Fh9sj/m
+photo.40.author: hamiiiii831_
+photo.40.commitdate: 2020/2/11
+photo.40.link: https://www.instagram.com/hamiiiii831_/
+photo.40.tags: mofumofu, paws, portrait
+photo.41: ig://B7-uhL5Brhs/m
+photo.41.author: makimaru18
+photo.41.commitdate: 2020/2/23
+photo.41.link: https://www.instagram.com/makimaru18/
+photo.41.tags: itchy, mofumofu, paws, portrait, tail, tongue
+photo.42: ig://B8NQxovB2fx/m
+photo.42.author: resapan.suki
+photo.42.commitdate: 2020/2/15
+photo.42.link: https://www.instagram.com/resapan.suki/
+photo.42.tags: mofumofu, portrait
+photo.43: ig://B8Z3ht2BceL/m
+photo.43.author: tomo3700
+photo.43.commitdate: 2020/2/23
+photo.43.link: https://www.instagram.com/tomo3700/
+photo.43.tags: mofumofu, paws, portrait, snow
+photo.44: ig://B9J9FJEh4KQ/m
+photo.44.author: resapan.suki
+photo.44.commitdate: 2020/3/9
+photo.44.link: https://www.instagram.com/resapan.suki/
+photo.44.tags: paws, portrait, wet
+photo.45: ig://B9obDRZhdUk/m
+photo.45.author: jas_forever_love
+photo.45.commitdate: 2020/3/15
+photo.45.link: https://www.instagram.com/jas_forever_love/
+photo.45.tags: tail
+photo.46: ig://B-GBjrYHvSu/m
+photo.46.author: tomo3700
+photo.46.commitdate: 2020/3/24
+photo.46.link: https://www.instagram.com/tomo3700/
+photo.46.tags: portrait
+photo.47: ig://B-RfHbEBZq9/m
+photo.47.author: minato.yokohama2130
+photo.47.commitdate: 2020/3/28
+photo.47.link: https://www.instagram.com/minato.yokohama2130/
+photo.47.tags: laying down, paws, portrait, tree
+photo.48: ig://B-R_NwPBNoT/m
+photo.48.author: minato.yokohama2130
+photo.48.commitdate: 2020/3/28
+photo.48.link: https://www.instagram.com/minato.yokohama2130/
+photo.48.tags: laying down, mofumofu, paws, portrait, sleeping, tail
+photo.49: ig://B_1cDQwJKoL/m
+photo.49.author: minato.yokohama2130
+photo.49.commitdate: 2020/5/17
+photo.49.link: https://www.instagram.com/minato.yokohama2130/
+photo.49.tags: bear worm, laying down, paws, portrait, smile, tail
+photo.50: ig://B_2GLUzHneq/m
+photo.50.author: framereim
+photo.50.commitdate: 2020/5/17
+photo.50.link: https://www.instagram.com/framereim/
+photo.50.tags: blink, flowers
+photo.51: ig://CAFf9bOBP6n/m
+photo.51.author: fetorus_mami
+photo.51.commitdate: 2020/5/17
+photo.51.link: https://www.instagram.com/fetorus_mami/
+photo.51.tags: baby, tail
+photo.52: ig://CAFgO8KBMgD/m
+photo.52.author: fetorus_mami
+photo.52.commitdate: 2020/5/17
+photo.52.link: https://www.instagram.com/fetorus_mami/
+photo.52.tags: baby, climb, tail, tree
+photo.53: ig://CAFgaxDB3oz/m
+photo.53.author: fetorus_mami
+photo.53.commitdate: 2020/5/17
+photo.53.link: https://www.instagram.com/fetorus_mami/
+photo.53.tags: baby, paws, tail
+photo.54: ig://CA7J-WohxI8/m
+photo.54.author: minato.yokohama2130
+photo.54.commitdate: 2020/6/20
+photo.54.link: https://www.instagram.com/minato.yokohama2130/
+photo.54.tags: portrait, tree, videolink
+photo.55: ig://CCjnxzSB802/m
+photo.55.author: hamamatsu.chiita
+photo.55.commitdate: 2020/8/16
+photo.55.link: https://www.instagram.com/hamamatsu.chiita/
+photo.55.tags: mofumofu, portrait, smile, tongue
+photo.56: ig://CDMwhc8h7sc/m
+photo.56.author: hamamatsu.chiita
+photo.56.commitdate: 2020/8/16
+photo.56.link: https://www.instagram.com/hamamatsu.chiita/
+photo.56.tags: peek, portrait, smile, tree
+photo.57: ig://CEbuVI3BWgm/m
+photo.57.author: redpanda_nippon_takashi
+photo.57.commitdate: 2020/9/4
+photo.57.link: https://www.instagram.com/redpanda_nippon_takashi/
+photo.57.tags: mofumofu, portrait, whiskers
+photo.58: ig://CGMjY5XBiLu/m
+photo.58.author: minato.yokohama2130
+photo.58.commitdate: 2020/10/11
+photo.58.link: https://www.instagram.com/minato.yokohama2130/
+photo.58.tags: blink, laying down, mofumofu, portrait, smile
+photo.59: ig://CGR-LNwBiSU/m
+photo.59.author: hamamatsu.chiita
+photo.59.commitdate: 2020/10/14
+photo.59.link: https://www.instagram.com/hamamatsu.chiita/
+photo.59.tags: mofumofu, paws, portrait, tail
+photo.60: ig://CGb0MIzB62J/m
+photo.60.author: kotata_513
+photo.60.commitdate: 2020/11/2
+photo.60.link: https://www.instagram.com/kotata_513/
+photo.60.tags: whiskers
+photo.61: ig://CHckavkBqCd/m
+photo.61.author: hamamatsu.chiita
+photo.61.commitdate: 2020/11/21
+photo.61.link: https://www.instagram.com/hamamatsu.chiita/
+photo.61.tags: mofumofu, portrait
+photo.62: ig://CHu5oUwhno9/m
+photo.62.author: kotata_513
+photo.62.commitdate: 2020/11/22
+photo.62.link: https://www.instagram.com/kotata_513/
+photo.62.tags: keeper, mofumofu, paws, standing, tail
+species: 2
+studbook.id: 15132
+zoo: 13

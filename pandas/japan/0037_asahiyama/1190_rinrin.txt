@@ -1,0 +1,42 @@
+[panda]
+_id: 1190
+birthday: 2020/6/29
+birthplace: 37
+children: none
+commitdate: 2020/7/14
+en.name: Rin-Rin
+en.nicknames: none
+en.othernames: Rinrin
+gender: f
+jp.name: 桜桜
+jp.nicknames: none
+jp.othernames: リンリン
+language.order: jp, en
+litter: 1189
+photo.1: ig://CGNOQlShs-H/m
+photo.1.author: mifko55
+photo.1.commitdate: 2020/10/11
+photo.1.link: https://www.instagram.com/mifko55/
+photo.1.tags: baby, flowers, standing
+photo.2: ig://CGPt6sFhgaL/m
+photo.2.author: an920000
+photo.2.commitdate: 2020/10/12
+photo.2.link: https://www.instagram.com/an920000/
+photo.2.tags: baby, mofumofu, portrait, profile
+photo.3: ig://CGkAU6vhczL/m
+photo.3.author: tama67photo
+photo.3.commitdate: 2020/11/1
+photo.3.link: https://www.instagram.com/tama67photo/
+photo.3.tags: baby, paws, portrait
+photo.4: ig://CHKrjzsBbd0/m
+photo.4.author: jas_forever_love
+photo.4.commitdate: 2020/11/5
+photo.4.link: https://www.instagram.com/jas_forever_love/
+photo.4.tags: baby, bamboo, home, paws, smile
+photo.5: ig://CHXvJ25hQL6/m
+photo.5.author: leonard_redmof
+photo.5.commitdate: 2020/11/21
+photo.5.link: https://www.instagram.com/leonard_redmof/
+photo.5.tags: baby, mofumofu, paws, playing, standing, tail
+species: 2
+zoo: 37

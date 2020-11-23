@@ -1,0 +1,11 @@
+[media]
+_id: media.10.hibiki-milk
+commitdate: 2020/8/2
+panda.tags: 98, 247
+photo.1: ig://CC03cawBd9S/l
+photo.1.author: fetorus_mami
+photo.1.commitdate: 2020/8/2
+photo.1.link: https://www.instagram.com/fetorus_mami/
+photo.1.tags: couple, peek
+photo.1.tags.98.location: 700, 550
+photo.1.tags.247.location: 225, 325

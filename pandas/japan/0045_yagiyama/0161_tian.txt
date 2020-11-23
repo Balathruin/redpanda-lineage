@@ -1,0 +1,299 @@
+[panda]
+_id: 161
+birthday: 2011/6/13
+birthplace: 34
+children: 159, 162, 163, 244, 245
+commitdate: 2018/7/1
+en.name: Tian
+en.nicknames: none
+en.othernames: Tyen
+gender: m
+jp.name: ティエン
+jp.nicknames: none
+jp.othernames: 天
+language.order: jp, en
+litter: none
+location.1: 34, 2011/6/13
+location.2: 45, 2012/12/22
+photo.1: ig://BGj6XM3vi5n/m
+photo.1.author: panda.daisuki
+photo.1.commitdate: 2020/4/15
+photo.1.link: https://www.instagram.com/panda.daisuki/
+photo.1.tags: paws, portrait, praying, standing, whiskers
+photo.2: ig://BVQ7CA-hpca/m
+photo.2.author: hidehaya_biei
+photo.2.commitdate: 2019/5/9
+photo.2.link: https://www.instagram.com/hidehaya_biei/
+photo.2.tags: paws, portrait, techitechi, tree
+photo.3: ig://BWO5_mPhSNR/m
+photo.3.author: miis_98
+photo.3.commitdate: 2020/4/1
+photo.3.link: https://www.instagram.com/miis_98/
+photo.3.tags: bamboo, home, paws, portrait, smile
+photo.4: ig://BXW3Z7XB6Ap/m
+photo.4.author: hidehaya_biei
+photo.4.commitdate: 2019/5/9
+photo.4.link: https://www.instagram.com/hidehaya_biei/
+photo.4.tags: portrait, tongue, tree
+photo.5: ig://Bj8igM_F7a_/m
+photo.5.author: minatomirai215
+photo.5.commitdate: 2018/7/26
+photo.5.link: https://www.instagram.com/minatomirai215/
+photo.5.tags: home, portrait, smile, tail
+photo.6: ig://Bj9fYPZFcm7/m
+photo.6.author: daniele.tokyo
+photo.6.commitdate: 2018/7/26
+photo.6.link: https://www.instagram.com/daniele.tokyo/
+photo.6.tags: apple time, portrait
+photo.7: ig://Bj-AscqlNnO/m
+photo.7.author: minatomirai215
+photo.7.commitdate: 2018/7/26
+photo.7.link: https://www.instagram.com/minatomirai215/
+photo.7.tags: keeper
+photo.8: ig://BkZ7THVFZ3L/m
+photo.8.author: godosei
+photo.8.commitdate: 2018/7/26
+photo.8.link: https://www.instagram.com/godosei/
+photo.8.tags: lips, smile, tree
+photo.9: ig://Bm23Sv8F3BZ/m
+photo.9.author: godosei
+photo.9.commitdate: 2018/8/25
+photo.9.link: https://www.instagram.com/godosei/
+photo.9.tags: night, portrait
+photo.10: ig://Bnyek8fFR04/m
+photo.10.author: ifumoto88
+photo.10.commitdate: 2018/9/16
+photo.10.link: https://www.instagram.com/ifumoto88/
+photo.10.tags: portrait, sleeping
+photo.11: ig://BoSuZULFaFk/m
+photo.11.author: _rifa_p
+photo.11.commitdate: 2018/9/30
+photo.11.link: https://www.instagram.com/_rifa_p/
+photo.11.tags: portrait, praying
+photo.12: ig://Bo3nITJFhv7/m
+photo.12.author: clam_chowder725
+photo.12.commitdate: 2018/10/13
+photo.12.link: https://www.instagram.com/clam_chowder725/
+photo.12.tags: bridge, tail
+photo.13: ig://BqIzFr7lR0a/m
+photo.13.author: panda.daisuki
+photo.13.commitdate: 2018/11/14
+photo.13.link: https://www.instagram.com/panda.daisuki/
+photo.13.tags: portrait, standing, tail
+photo.14: ig://Bqqc3PCFm8S/m
+photo.14.author: rie_panda55
+photo.14.commitdate: 2018/11/27
+photo.14.link: https://www.instagram.com/rie_panda55/
+photo.14.tags: autumn
+photo.15: ig://BrBlMjPFCxF/m
+photo.15.author: _rifa_p
+photo.15.commitdate: 2018/12/6
+photo.15.link: https://www.instagram.com/_rifa_p/
+photo.15.tags: home, smile, tail
+photo.16: ig://BrHN-zQF1EA/m
+photo.16.author: miis_98
+photo.16.commitdate: 2018/12/8
+photo.16.link: https://www.instagram.com/miis_98/
+photo.16.tags: home, portrait, profile
+photo.17: ig://BtqXD3QlExc/m
+photo.17.author: happy_love2.15
+photo.17.commitdate: 2019/3/17
+photo.17.link: https://www.instagram.com/happy_love2.15/
+photo.17.tags: snow
+photo.18: ig://Bt529k4FADJ/m
+photo.18.author: ifumoto88
+photo.18.commitdate: 2019/2/19
+photo.18.link: https://www.instagram.com/ifumoto88/
+photo.18.tags: portrait
+photo.19: ig://BuEIFPnF9LE/m
+photo.19.author: fetorus_mami
+photo.19.commitdate: 2019/3/2
+photo.19.link: https://www.instagram.com/fetorus_mami/
+photo.20: ig://Bu7cIFHFKrO/m
+photo.20.author: clam_chowder725
+photo.20.commitdate: 2019/3/17
+photo.20.link: https://www.instagram.com/clam_chowder725/
+photo.20.tags: home, paws, portrait, tongue
+photo.21: ig://Bv6iz_0lmxD/m
+photo.21.author: fetorus_mami
+photo.21.commitdate: 2019/4/6
+photo.21.link: https://www.instagram.com/fetorus_mami/
+photo.21.tags: bridge, head-first, portrait
+photo.22: ig://Bv6k5rCFU2C/m
+photo.22.author: fetorus_mami
+photo.22.commitdate: 2019/4/6
+photo.22.link: https://www.instagram.com/fetorus_mami/
+photo.22.tags: home, smile
+photo.23: ig://BxCmLc2FUTd/m
+photo.23.author: resapan.suki
+photo.23.commitdate: 2019/5/5
+photo.23.link: https://www.instagram.com/resapan.suki/
+photo.23.tags: bamboo, home, portrait, techitechi
+photo.24: ig://BxsD-hPl4YC/m
+photo.24.author: happy_love2.15
+photo.24.commitdate: 2019/5/22
+photo.24.link: https://www.instagram.com/happy_love2.15/
+photo.24.tags: paws, standing, tongue, tree
+photo.25: ig://ByMPhLNB61r/m
+photo.25.author: fetorus_mami
+photo.25.commitdate: 2019/6/2
+photo.25.link: https://www.instagram.com/fetorus_mami/
+photo.25.tags: portrait
+photo.26: ig://Bypt91BBfb-/m
+photo.26.author: minatomirai215
+photo.26.commitdate: 2020/6/15
+photo.26.link: https://www.instagram.com/minatomirai215/
+photo.26.tags: portrait, smile, whiskers
+photo.27: ig://B1T2dwcBz1S/m
+photo.27.author: sasapan34
+photo.27.commitdate: 2019/8/23
+photo.27.link: https://www.instagram.com/sasapan34/
+photo.27.tags: tongue
+photo.28: ig://B2EU598B7y-/m
+photo.28.author: grskus_tk
+photo.28.commitdate: 2019/9/6
+photo.28.link: https://www.instagram.com/grskus_tk/
+photo.28.tags: bamboo, lunch time, portrait
+photo.29: ig://B2RPQb2hr6W/m
+photo.29.author: resapan.suki
+photo.29.commitdate: 2019/9/14
+photo.29.link: https://www.instagram.com/resapan.suki/
+photo.29.tags: portrait, smile, tree
+photo.30: ig://B2dITykhLdj/m
+photo.30.author: grskus_tk
+photo.30.commitdate: 2019/9/22
+photo.30.link: https://www.instagram.com/grskus_tk/
+photo.30.tags: grooming, portrait, tree
+photo.31: ig://B4MlFRFBar0/m
+photo.31.author: pink.b22
+photo.31.commitdate: 2019/11/19
+photo.31.link: https://www.instagram.com/pink.b22/
+photo.31.tags: home, laying down, portrait, smile, white face
+photo.32: ig://B5KbhPwBtpp/m
+photo.32.author: pink.b22
+photo.32.commitdate: 2019/11/24
+photo.32.link: https://www.instagram.com/pink.b22/
+photo.32.tags: home, laying down, paws, portrait, yawn
+photo.33: ig://B5Su44UBANp/m
+photo.33.author: happy_love2.15
+photo.33.commitdate: 2019/12/3
+photo.33.link: https://www.instagram.com/happy_love2.15/
+photo.33.tags: paws, portrait
+photo.34: ig://B57AyVGB1ep/m
+photo.34.author: sasapan34
+photo.34.commitdate: 2019/12/30
+photo.34.link: https://www.instagram.com/sasapan34/
+photo.34.tags: home, whiskers
+photo.35: ig://B6DE3BNhGHO/m
+photo.35.author: hamiiiii831_
+photo.35.commitdate: 2019/12/29
+photo.35.link: https://www.instagram.com/hamiiiii831_/
+photo.35.tags: bamboo, portrait, whiskers
+photo.36: ig://B6QQEXDBnPE/m
+photo.36.author: hidehaya_biei
+photo.36.commitdate: 2019/12/30
+photo.36.link: https://www.instagram.com/hidehaya_biei/
+photo.36.tags: bamboo, smile, whiskers
+photo.37: ig://B61i2tVhMcx/m
+photo.37.author: pink.b22
+photo.37.commitdate: 2020/1/11
+photo.37.link: https://www.instagram.com/pink.b22/
+photo.37.tags: home, laying down, portrait, smile
+photo.38: ig://B624T_EhIC7/m
+photo.38.author: redpan22
+photo.38.commitdate: 2020/1/11
+photo.38.link: https://www.instagram.com/redpan22/
+photo.38.tags: bamboo, bite, home, portrait, whiskers
+photo.39: ig://B7RF2-VBnYR/m
+photo.39.author: kisshan324
+photo.39.commitdate: 2020/1/19
+photo.39.link: https://www.instagram.com/kisshan324/
+photo.39.tags: home, paws, portrait
+photo.40: ig://B7dYD9qBzD2/m
+photo.40.author: hamiiiii831_
+photo.40.commitdate: 2020/1/21
+photo.40.link: https://www.instagram.com/hamiiiii831_/
+photo.40.tags: bamboo, bite, home, paws, portrait
+photo.41: ig://B8IUpK-hiuh/m
+photo.41.author: hidehaya_biei
+photo.41.commitdate: 2020/2/7
+photo.41.link: https://www.instagram.com/hidehaya_biei/
+photo.41.tags: autumn, paws, tongue, tree
+photo.42: ig://B8gFi5DheeI/m
+photo.42.author: ssc6105
+photo.42.commitdate: 2020/2/22
+photo.42.link: https://www.instagram.com/ssc6105/
+photo.42.tags: portrait
+photo.43: ig://B9tZPbCh7mp/m
+photo.43.author: ssc6105
+photo.43.commitdate: 2020/3/18
+photo.43.link: https://www.instagram.com/ssc6105/
+photo.43.tags: bridge, paws
+photo.44: ig://B-54BNeBFa3/m
+photo.44.author: grskus_tk
+photo.44.commitdate: 2020/5/17
+photo.44.link: https://www.instagram.com/grskus_tk/
+photo.44.tags: home, laying down, peek, portrait
+photo.45: ig://B_PfebxH9FF/m
+photo.45.author: eos1089
+photo.45.commitdate: 2020/6/7
+photo.45.link: https://www.instagram.com/eos1089/
+photo.45.tags: paws, whiskers
+photo.46: ig://CAOl6u7hOxO/m
+photo.46.author: ssc6105
+photo.46.commitdate: 2020/5/17
+photo.46.link: https://www.instagram.com/ssc6105/
+photo.46.tags: bamboo, paws, smile
+photo.47: ig://CBV7QDoBGqj/m
+photo.47.author: hamiiiii831_
+photo.47.commitdate: 2020/6/15
+photo.47.link: https://www.instagram.com/hamiiiii831_/
+photo.47.tags: portrait, tongue, whiskers
+photo.48: ig://CBWowajBp3h/m
+photo.48.author: _rifa_p
+photo.48.commitdate: 2020/6/15
+photo.48.link: https://www.instagram.com/_rifa_p/
+photo.48.tags: paws, portrait, standing, tail
+photo.49: ig://CBWymrkBM8w/m
+photo.49.author: eos1089
+photo.49.commitdate: 2020/6/15
+photo.49.link: https://www.instagram.com/eos1089/
+photo.49.tags: paws, portrait, smile
+photo.50: ig://CBXWI3lhTWT/m
+photo.50.author: ssc6105
+photo.50.commitdate: 2020/6/15
+photo.50.link: https://www.instagram.com/ssc6105/
+photo.50.tags: bamboo, paws, whiskers
+photo.51: ig://CGCg54mhb5_/m
+photo.51.author: minatomirai215
+photo.51.commitdate: 2020/10/8
+photo.51.link: https://www.instagram.com/minatomirai215/
+photo.51.tags: peek, whiskers
+photo.52: ig://CGJnArshsL2/m
+photo.52.author: alto0908
+photo.52.commitdate: 2020/10/11
+photo.52.link: https://www.instagram.com/alto0908/
+photo.52.tags: home, laying down, paws, portrait, smile, whiskers
+photo.53: ig://CGRS8D1Bufz/m
+photo.53.author: hidehaya_biei
+photo.53.commitdate: 2020/10/13
+photo.53.link: https://www.instagram.com/hidehaya_biei/
+photo.53.tags: tongue, whiskers
+photo.54: ig://CG06yQ1Bn-a/m
+photo.54.author: panda.daisuki
+photo.54.commitdate: 2020/10/27
+photo.54.link: https://www.instagram.com/panda.daisuki/
+photo.54.tags: paws, portrait
+photo.55: ig://CG1wNpxhTTZ/m
+photo.55.author: hamiiiii831_
+photo.55.commitdate: 2020/10/27
+photo.55.link: https://www.instagram.com/hamiiiii831_/
+photo.55.tags: home, laying down, portrait, tongue
+photo.56: ig://CHJ66GOBTN8/m
+photo.56.author: hidehaya_biei
+photo.56.commitdate: 2020/11/5
+photo.56.link: https://www.instagram.com/hidehaya_biei/
+photo.56.tags: paws, whiskers
+species: 2
+studbook.id: 1191
+zoo: 45

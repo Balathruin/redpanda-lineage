@@ -1,0 +1,37 @@
+[panda]
+_id: 1191
+birthday: 2020/6/23
+birthplace: 65
+children: none
+commitdate: 2020/7/14
+en.name: Lucas
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: ルーカス
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: none
+photo.1: ig://CC4oleBDLlq/m
+photo.1.author: cincinnatizoo
+photo.1.commitdate: 2020/9/7
+photo.1.link: https://www.instagram.com/cincinnatizoo/
+photo.1.tags: baby, newborn, portrait, tail
+photo.2: ig://CGrzHUoHkid/m
+photo.2.author: cincinnatizoo
+photo.2.commitdate: 2020/10/27
+photo.2.link: https://www.instagram.com/cincinnatizoo/
+photo.2.tags: baby, portrait, smile, tail, tree
+photo.3: ig://CHQcRBYjH3W/m
+photo.3.author: cincinnatizoo
+photo.3.commitdate: 2020/11/15
+photo.3.link: https://www.instagram.com/cincinnatizoo/
+photo.3.tags: baby, bamboo, dish, paws, portrait, smile
+photo.4: ig://CHw2CtFglHG/m
+photo.4.author: rossifari
+photo.4.commitdate: 2020/11/20
+photo.4.link: https://www.instagram.com/rossifari/
+photo.4.tags: baby, mofumofu, standing
+species: 2
+zoo: 65

@@ -1,0 +1,18 @@
+[media]
+_id: media.36.gaia-jazz
+commitdate: 2020/7/10
+panda.tags: 165, 166
+photo.1: ig://CB7_I6uBoYW/l
+photo.1.author: i.satosato
+photo.1.commitdate: 2020/7/10
+photo.1.link: https://www.instagram.com/i.satosato/
+photo.1.tags: father's day, smile, tree
+photo.1.tags.165.location: 205, 380
+photo.1.tags.166.location: 845, 330
+photo.2: ig://CHC3HqFhZ_x/l
+photo.2.author: i.satosato
+photo.2.commitdate: 2020/11/7
+photo.2.link: https://www.instagram.com/i.satosato/
+photo.2.tags: father's day, portrait, smile, tree
+photo.2.tags.165.location: 255, 285
+photo.2.tags.166.location: 430, 165
